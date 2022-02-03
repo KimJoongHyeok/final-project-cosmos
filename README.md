@@ -80,10 +80,11 @@
 ![---](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 - TDD와 Agile 방식을 선택하여 필요시마다 설계, 구현, 테스트를 반복하였다.
 
-<details>
-<summary>💷설계 image(접기/펼치기)</summary>
-<div markdown="1">
+<!-- <details>
+<summary>(접기/펼치기)</summary>
+<div markdown="1"> -->
 
+💷설계 image
 <br>
 
 <details>
@@ -129,9 +130,9 @@
 </div>
 </details>
 
-
+<!-- 
 </div>
-</details>
+</details> -->
 
 
 <br>
